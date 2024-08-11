@@ -1,0 +1,1 @@
+A model that uses Google’s Gemini API to analyze resumes against job descriptions and provide insights on strengths, weaknesses, and job fit, enhancing resume optimization and candidate-job alignment.
