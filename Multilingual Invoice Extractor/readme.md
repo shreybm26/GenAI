@@ -1,1 +1,1 @@
-3 sample invoices have been provided in English, Hindi and Arabic
+A model utilizing Google’s Gemini API to read invoices in any language and provide results based on specific prompts. Implemented the user interface using Streamlit for an interactive and user-friendly experience. 3 sample invoices have been provided in English, Hindi and Arabic
